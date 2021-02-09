@@ -1,0 +1,16 @@
+/home/owner/dojo/c#colections/Basic13/bin/Debug/net5.0/Basic13
+/home/owner/dojo/c#colections/Basic13/bin/Debug/net5.0/Basic13.deps.json
+/home/owner/dojo/c#colections/Basic13/bin/Debug/net5.0/Basic13.runtimeconfig.json
+/home/owner/dojo/c#colections/Basic13/bin/Debug/net5.0/Basic13.runtimeconfig.dev.json
+/home/owner/dojo/c#colections/Basic13/bin/Debug/net5.0/Basic13.dll
+/home/owner/dojo/c#colections/Basic13/bin/Debug/net5.0/ref/Basic13.dll
+/home/owner/dojo/c#colections/Basic13/bin/Debug/net5.0/Basic13.pdb
+/home/owner/dojo/c#colections/Basic13/obj/Debug/net5.0/Basic13.csprojAssemblyReference.cache
+/home/owner/dojo/c#colections/Basic13/obj/Debug/net5.0/Basic13.GeneratedMSBuildEditorConfig.editorconfig
+/home/owner/dojo/c#colections/Basic13/obj/Debug/net5.0/Basic13.AssemblyInfoInputs.cache
+/home/owner/dojo/c#colections/Basic13/obj/Debug/net5.0/Basic13.AssemblyInfo.cs
+/home/owner/dojo/c#colections/Basic13/obj/Debug/net5.0/Basic13.csproj.CoreCompileInputs.cache
+/home/owner/dojo/c#colections/Basic13/obj/Debug/net5.0/Basic13.dll
+/home/owner/dojo/c#colections/Basic13/obj/Debug/net5.0/ref/Basic13.dll
+/home/owner/dojo/c#colections/Basic13/obj/Debug/net5.0/Basic13.pdb
+/home/owner/dojo/c#colections/Basic13/obj/Debug/net5.0/Basic13.genruntimeconfig.cache
